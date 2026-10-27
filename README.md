@@ -51,8 +51,11 @@ Router(config-if)# ip address 192.168.2.1 255.255.255.0<br>
 Router(config-if)# no shutdown<br>
 ________________________________________
 # Output (Screenshots)
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/1d97cf38-a626-4bef-a6bd-96c20da5f724" />
-<img width="877" height="873" alt="image" src="https://github.com/user-attachments/assets/340271ce-aad2-4608-8ed4-40fc5a04e38d" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/2955334f-3a63-45e2-a063-c62dfed4d3b3" />
+<img width="877" height="873" alt="image" src="https://github.com/user-attachments/assets/4eb546c7-57f0-4f97-bd8e-3cf9bd2b7951" />
+
+<img width="877" height="873" alt="image" src="https://github.com/user-attachments/assets/0c7fbf7c-021f-4673-b9f6-c265d28185db" />
+
 
 # Result
 Successfully configured a router to connect two LANs. Communication between PC0 and PC1 across different networks was tested and verified.
